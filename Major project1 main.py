@@ -1,30 +1,3 @@
-"""
-Image Classification: ANN vs CNN
-Dataset: Intel Image Classification
-
-Expected dataset structure:
-intel-image-classification/
-├── seg_train/
-│   └── seg_train/
-│       ├── buildings/
-│       ├── forest/
-│       ├── glacier/
-│       ├── mountain/
-│       ├── sea/
-│       └── street/
-└── seg_test/
-    └── seg_test/
-        ├── buildings/
-        ├── forest/
-        ├── glacier/
-        ├── mountain/
-        ├── sea/
-        └── street/
-
-Run:
-    python main.py --data_dir /path/to/intel-image-classification
-"""
-
 import argparse
 import json
 import random
