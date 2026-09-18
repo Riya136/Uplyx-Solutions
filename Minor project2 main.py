@@ -1,20 +1,4 @@
-"""
-Advanced Applications in Math and Python
-
-This project implements:
-1. Covariance and correlation matrices using matrix multiplication.
-2. Verification with NumPy's built-in covariance function.
-3. Markov chain simulation and steady-state probabilities.
-4. Time-series rolling mean and expanding standard deviation.
-5. Advanced Matplotlib visualization with subplots, conditional colors,
-   rolling mean, and shaded standard deviation.
-
-Run:
-    python main.py
-"""
-
 from pathlib import Path
-
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
