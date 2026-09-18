@@ -1,0 +1,2 @@
+# Uplyx-Solutions
+INTERNSHIP PROJECTS 
