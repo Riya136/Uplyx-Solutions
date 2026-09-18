@@ -1,19 +1,3 @@
-"""
-Sequential Data Analysis: RNN vs LSTM vs GRU
-
-Dataset:
-Women's E-Commerce Clothing Reviews
-
-Expected CSV columns:
-- Review Text
-- Recommended IND
-
-The script automatically detects common column-name variations.
-
-Run:
-    python main.py --csv_path "Womens Clothing E-Commerce Reviews.csv" --epochs 5
-"""
-
 import argparse
 import re
 import time
